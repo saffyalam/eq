@@ -24,7 +24,7 @@ def search (arr, n, x):
       i = i + 1
 
 
-arr = [4,6,1,5,8]
+arr = [4,6,1,5,8,9,12,15]
 n = len(arr)
 x = 6
 print (search(arr, n, x))
